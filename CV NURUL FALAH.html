@@ -21,7 +21,7 @@
             text-align: center;
         }
         .header img {
-            width: 150px;
+            width: 300px;
             border-radius: 15%;
         }
         .header h1 {
@@ -112,8 +112,6 @@ Hallo, perkenalkan saya Nurul Falah Wijaya biasa dipanggil newreels, seorang pel
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">          
-                </ul>
-            </body>
             <h4>KEMAMPUAN DAN HOBI </h4>
             <head>
     <meta charset="UTF-8">
