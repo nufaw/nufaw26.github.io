@@ -2,27 +2,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Punya Nurul </title>
+    <title>Portfolio Nurul Falah Wijaya</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #A9A9A9;
+            background-color: #2E5984;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #D3D3D3;
+            background-color: #FFFFFF;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .header {
             text-align: center;
         }
         .header img {
-            width: 400px;
-            border-radius: 0%;
+            width: 150px;
+            border-radius: 15%;
         }
         .header h1 {
             margin: 10px 0;
