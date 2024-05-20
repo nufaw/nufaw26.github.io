@@ -48,12 +48,7 @@
 <body>
    <div class="container">
         <div class="header">
-            <img src="https://wallpapers.com/images/featured/xbhxhl6fbcdcaqz8.jpg" 
-            height="200px"
-            width="150px"
-            style="border-radius: 50%"
-</body>
-</head>
+            <img src="https://wallpapers.com/images/featured/xbhxhl6fbcdcaqz8.jpg" alt="Foto Profil">
             <h1>Nurul Falah Wijaya</h1>
             <p>Taktakan, Kota Serang, Banten, Indonesia| nurulfalah271@gmail com | 085950439174 </p>
         </div>
